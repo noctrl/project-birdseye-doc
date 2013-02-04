@@ -5,7 +5,7 @@ What is this?
 ---------
 This is basically a shell project for documentation. Nothing except this README.md will ever be in this
 repository. For more information about the project and as-we-go documentation, head over to the
-[Wiki](https://github.com/noctrl/project-birdseye-doc/wiki)!
+[Wiki](https://github.com/noctrl/project-birdseye-doc/wiki).
 
 Project Overview
 ----------------
